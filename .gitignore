@@ -2,3 +2,4 @@ env/
 Flask/
 .ipynb_checkpoints/
 .vscode/
+.gitignore
