@@ -3,3 +3,6 @@ Flask/
 .ipynb_checkpoints/
 .vscode/
 /.gitignore
+n.py
+M12_Ensemble Learning/03_Random Forest/mnist_train.csv
+M13_K Nearest Neighbors/Data/exoTrain.csv
